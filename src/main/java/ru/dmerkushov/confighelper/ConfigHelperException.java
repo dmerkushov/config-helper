@@ -7,7 +7,7 @@ package ru.dmerkushov.confighelper;
 
 /**
  *
- * @author shandr
+ * @author Dmitriy Merkushov
  */
 public class ConfigHelperException extends Exception {
 

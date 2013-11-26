@@ -14,7 +14,7 @@ import java.util.Properties;
 
 /**
  *
- * @author shandr
+ * @author Dmitriy Merkushov
  */
 public class ConfigHelper {
 
