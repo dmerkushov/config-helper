@@ -9,6 +9,7 @@ package ru.dmerkushov.confighelper;
  * @author Dmitriy Merkushov
  */
 public class ConfigHelperException extends Exception {
+	private static final long serialVersionUID = 1L;
 
 	/**
 	 * Creates a new instance of
