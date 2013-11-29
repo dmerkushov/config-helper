@@ -100,7 +100,6 @@ public class ConfigHelper {
 	 *
 	 * @param defaultValues
 	 * @param name
-	 * @param filename
 	 * @return
 	 * @throws ConfigHelperException
 	 */
